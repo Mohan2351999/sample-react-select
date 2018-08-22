@@ -1,0 +1,19 @@
+.changeheight{
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 300px;
+
+}
+
+.changeheight1{
+    margin-left: 1%;
+    margin-top: 1%;
+    width: 500px;
+ float: right;
+}
+
+.color{
+    background-color: aquamarine;
+    height: 100px;
+    size: 100px;
+}
